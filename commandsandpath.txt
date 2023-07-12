@@ -6,9 +6,9 @@ npm run main_tests
 Report path> xunittest-report.xml
 
 Path to pass:
-bash-5.0$ cp /home/tg-user/CandidateCode/TicTacToe_Solution/pages/* /home/tg-user/CandidateCode/src/pages/
-bash-5.0$ cp /home/tg-user/CandidateCode/TicTacToe_Solution/App.js /home/tg-user/CandidateCode/src/
-bash-5.0$ cp /home/tg-user/CandidateCode/TicTacToe_Solution/index.* /home/tg-user/CandidateCode/src/
+cp /home/tg-user/CandidateCode/TicTacToe_Solution/pages/* /home/tg-user/CandidateCode/src/pages/;
+cp /home/tg-user/CandidateCode/TicTacToe_Solution/App.js /home/tg-user/CandidateCode/src/;
+cp /home/tg-user/CandidateCode/TicTacToe_Solution/index.* /home/tg-user/CandidateCode/src/
 
 Long text:
 https://docs.google.com/document/d/1n7mkjDj-MNGNhkQYjA5GjAYo7xjMIcdW/edit
